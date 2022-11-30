@@ -1,0 +1,9 @@
+﻿type,sep,number,color
+raw,Other (Red Team),4848,red
+raw,Jungle (Red Team),3364,red
+raw,Other (Blue Team),4874,red
+raw,Jungle (Blue Team),3362,red
+clean,Other (Red Team),4320,green
+clean,Jungle (Red Team),2649,green
+clean,Other (Blue Team),4373,green
+clean,Jungle (Blue Team),2664,green
